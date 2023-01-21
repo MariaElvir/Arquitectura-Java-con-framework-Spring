@@ -1,0 +1,3 @@
+INSERT INTO conductor (dni, nombres,apellidoPaterno,apellidoMaterno,fechaNacimiento,direccion,telefono,email) VALUES(7222765,"Jherrson","Mozo","Olarte","25/04/1994","Av. Los Jardines",987456210,"Jherrson@gmail.com");
+INSERT INTO conductor (dni, nombres,apellidoPaterno,apellidoMaterno,fechaNacimiento,direccion,telefono,email) VALUES(7222767,"Joel","Gomez","Olarte","25/04/1994","Av. Los Jardines",987456210,"Joel@gmail.com");
+INSERT INTO conductor (dni, nombres,apellidoPaterno,apellidoMaterno,fechaNacimiento,direccion,telefono,email) VALUES(7222765,"Sergio","Lizama","Olarte","25/04/1994","Av. Los Jardines",987456210,"Sergio@gmail.com",);
